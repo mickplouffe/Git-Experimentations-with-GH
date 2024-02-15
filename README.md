@@ -7,18 +7,18 @@ Disclaimer
 
 ## What You'll Find Here
 
-    **Merge Experiments**: Branches merged under different scenarios, showcasing the outcomes and the strategies used to resolve any issues.
-    **Conflict Resolution**: Instances where merge conflicts arose and the steps taken to address them, providing a real-world glimpse into conflict management in Git.
-    **Editing Histories**: Commits that demonstrate how to edit or amend commit histories safely and effectively.
-    **Branching Strategies**: Various branching strategies explored to understand their implications on workflow and project management.
-    **Advanced Git Operations**: Delving into more complex Git functionalities, such as rebasing, cherry-picking, and stashing.
-	**Trial and Errors**: Many errors, mistakes and personnal take.
+**Merge Experiments**: Branches merged under different scenarios, showcasing the outcomes and the strategies used to resolve any issues.
+**Conflict Resolution**: Instances where merge conflicts arose and the steps taken to address them, providing a real-world glimpse into conflict management in Git.
+**Editing Histories**: Commits that demonstrate how to edit or amend commit histories safely and effectively.
+**Branching Strategies**: Various branching strategies explored to understand their implications on workflow and project management.
+**Advanced Git Operations**: Delving into more complex Git functionalities, such as rebasing, cherry-picking, and stashing.
+**Trial and Errors**: Many errors, mistakes and personnal take.
 
 ## How to Navigate
 
-    Each branch in this repository is named according to the specific experiment or concept it explores. For instance, *erge-experiment-1*, *conflict-resolution-example*, etc.
-    The commit history within each branch provides a chronological record of the actions taken and the lessons learned.
-    The repository's issue tracker and pull requests sections contain discussions and notes related to specific experiments, offering additional insights into each process.
+Each branch in this repository is named according to the specific experiment or concept it explores. For instance, *erge-experiment-1*, *conflict-resolution-example*, etc.
+The commit history within each branch provides a chronological record of the actions taken and the lessons learned.
+The repository's issue tracker and pull requests sections contain discussions and notes related to specific experiments, offering additional insights into each process.
 
 ## Purpose
 
