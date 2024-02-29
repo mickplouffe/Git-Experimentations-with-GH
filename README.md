@@ -38,4 +38,4 @@ As this is a personal training resource, I'm not currently seeking contributions
 
 ## License
 
-This repository is maintained for personal use and learning purposes. The content and documentation are provided "**as is**", without warranty of any kind, express or implied.
+This project is made available under the MIT License. It is intended for educational and entertainment purposes. Please see the [LICENSE](LICENSE) file for full license details. Note that this project is provided "as is," without warranty of any kind.
